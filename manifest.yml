@@ -4,7 +4,7 @@ applications:
   memory: 512M
   random-route: true
 #  host: articulate-jl
-  instances: 2
+  instances: 1
   buildpack: java_buildpack
   stack: cflinuxfs2
   env:
